@@ -2,7 +2,7 @@
 branches:
 - master
 projects:
-  ScoreHud:
+  ScoreMCPE:
     icon: meta/ScoreHud.PNG
     libs:
       - src: buchwasa/ScoreFactory/ScoreFactory
