@@ -1,4 +1,4 @@
-name: ScoreHud
+name: ScoreMCPE
 main: Ifera\ScoreHud\ScoreHud
 api: 3.0.0
 version: 6.3.1
