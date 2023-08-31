@@ -1,8 +1,10 @@
 name: ScoreMCPE
 main: Ifera\ScoreHud\ScoreHud
-api: 3.0.0
-version: 6.3.1
-author: Ifera
+api: 5.0.0
+version: 6.6.1
+authors: 
+- Ifera
+- NurAzliYT
 description: Add fully customizable scoreboards to your server.
 
 extensions:
